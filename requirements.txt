@@ -1,0 +1,11 @@
+funcy==1.17
+pytest==7.0.1
+allure-pytest==2.9.45
+pydantic[dotenv]==1.9.0
+selenium==3.141.0
+
+# Все версии браузера смотреть тут:
+# https://github.com/danielkaiser/python-chromedriver-binary/releases
+chromedriver-binary==102.0.5005.61.0
+python-jenkins==1.7.0
+black==22.3.0
